@@ -36,7 +36,7 @@ export default function Hero() {
       {/* Images Section */}
       <div className="flex justify-center items-center">
         <Image
-          src="/images/picture.jpg"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYP2Dtatp3FgX3zmLhcGNAmt18LjJBgJN8i-73OumwbRKWPDIQcxVM4LXLpmpVIcyRjjI&usqp=CAU"
           alt="Menu Picture"
           width={350}
           height={350}

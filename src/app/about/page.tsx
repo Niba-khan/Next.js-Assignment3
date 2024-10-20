@@ -13,7 +13,7 @@ export default function About(){
      {/* Images Section */}
     <div className='grid md:grid-cols-2 gap-3 items-center py-9 px-6 sm:py-16'>
     <Image
-          src="/images/about picture.jpg"
+          src="https://i.pinimg.com/736x/cc/ac/45/ccac4507b34817fd23ca76d7c85ecc40.jpg"
           alt="Menu Picture"
           width={350}
           height={350}

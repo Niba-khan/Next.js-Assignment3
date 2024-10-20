@@ -66,7 +66,7 @@ export default function Projects() {
         <div className="relative group mb-4"> 
           <Link href="https://github.com/Niba-khan/Marksheet.git"> 
             <Image
-              src="/images/project5.jpg"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWYB1w79TMKBIqR8EzB1xc7kzx_qR8FrCUcA&s"
               alt="Project Image 5"
               width={350}
               height={350}
@@ -79,7 +79,7 @@ export default function Projects() {
         <div className="relative group mb-4"> 
           <Link href="https://github.com/Niba-khan/simple-calculator.git"> 
             <Image
-              src="/images/project6.png"
+              src="https://i.ytimg.com/vi/f2DN1PNIz80/maxresdefault.jpg"
               alt="Project Image 6"
               width={350}
               height={350}
